@@ -1,0 +1,68 @@
+body {
+    background-color: #f3f4ed;
+    color: #1d424d; 
+    font-family: 'Arial', sans-serif;
+}
+
+a {
+    color: #379c8a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2c7a6c;
+}
+
+/*
+  ========================================
+  Navbar
+  ========================================
+*/
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f3f4ed; 
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #6ec1b2; 
+}
+
+.navbar-dark .navbar-brand {
+    color: #f3f4ed; 
+}
+
+/*
+  ========================================
+  Hero Section 
+  ========================================
+*/
+.bg-image{
+    background-image: url('images/bg-hero.jpg');
+    background-position: center;
+}
+.bg-light {
+    background-color: transparent;
+}
+
+.display-5 {
+    color: #2c7a6c; 
+}
+
+.lead {
+    color: #1d424d;
+}
+
+/*
+  ========================================
+  Button
+  ========================================
+*/
+.btn-primary {
+    background-color: #2c7a6c; 
+    border-color: #2c7a6c; 
+}
+
+.btn-primary:hover {
+    background-color: #1d424d; 
+    border-color: #1d424d; 
+}
