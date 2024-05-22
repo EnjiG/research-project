@@ -66,3 +66,14 @@ a:hover {
     background-color: #1d424d; 
     border-color: #1d424d; 
 }
+
+
+/*
+  ========================================
+  Styles
+  ========================================
+*/
+
+.bg-alt{
+    background-color: #e2ded5; 
+}
