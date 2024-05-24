@@ -52,21 +52,6 @@ a:hover {
     color: #1d424d;
 }
 
-/*
-  ========================================
-  Button
-  ========================================
-*/
-.btn-primary {
-    background-color: #2c7a6c; 
-    border-color: #2c7a6c; 
-}
-
-.btn-primary:hover {
-    background-color: #1d424d; 
-    border-color: #1d424d; 
-}
-
 
 /*
   ========================================
